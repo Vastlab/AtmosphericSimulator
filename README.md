@@ -1,5 +1,5 @@
 # VAST Atmospheric Simulation Module
-This code is adopted from https://github.com/Riponcs/TurbulenceSimulatorPython
+This code is adopted from https://github.com/Riponcs/TurbulenceSimulatorPython  with minor changes to support inline usages instead of file-based processing. 
 
 This repository contains the code for the following paper:
 
